@@ -1,0 +1,5 @@
+{
+  "name": "LingoWeb Translator",
+  "description": "A powerful web translation tool that converts entire webpages or text into any language (specializing in English to Telugu) using Gemini's advanced linguistic capabilities.",
+  "requestFramePermissions": []
+}
